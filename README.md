@@ -40,9 +40,3 @@ The **Hospital Management System** is a Java-based web application designed to s
 - **Patient**: Registers, logs in, and books appointments.
 
 ---
-
-## 📸 Screenshots
-
-(Add relevant screenshots here like login page, dashboards, appointment forms, etc.)
-
----
